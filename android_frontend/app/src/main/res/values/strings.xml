@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Personal Notes</string>
+    <string name="search_hint">Search notes</string>
+    <string name="add_note">Add note</string>
+    <string name="new_note">New Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="save">Save</string>
+    <string name="untitled">Untitled</string>
+    <string name="empty_note_warning">Cannot save empty note</string>
+    <string name="note_saved">Note saved</string>
+    <string name="note_deleted">Note deleted</string>
+    <string name="error_loading">Error loading note</string>
+    <string name="error_saving">Error saving note</string>
+    <string name="error_deleting">Error deleting note</string>
+</resources>
